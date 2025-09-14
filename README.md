@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alladiswanth1
-- 👀 I’m interested in pen testing, networking, cybersecurity 
+- 👀 I’m interested in pen testing, networking, ethical hacking 
 - 🌱 I’m currently learning Ethical hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
